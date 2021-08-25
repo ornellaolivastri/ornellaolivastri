@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- 🔭 I’m currently working on two projects: one based on java and the other in python.
+ 🔭 I’m currently working on two projects: one based on java and the other on python.
  🌱 Besides, I'm learning lots of diferent things, shown in my repositories.
  👯 I’m looking to collaborate on projects related to learning, time management and efficient-organization.
 
