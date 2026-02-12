@@ -1,11 +1,8 @@
 ### Hi there 👋
 
- 🔭 I’m currently working on two projects: one based on java and the other on python.
- 🌱 Besides, I'm learning lots of diferent things, shown in my repositories.
- 👯 I’m looking to collaborate on projects related to learning, time management and efficient-organization.
+ 🔭🔭 I’m currently working on updating my projects here in git, to show everything I'm learning in my repositories 🌱🌱
 
 
 <!--
 **ornellaolivastri/ornellaolivastri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 -->
